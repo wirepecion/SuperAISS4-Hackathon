@@ -1,0 +1,10 @@
+sentencepiece
+transformers
+datasets
+hydra-core
+protobuf
+torch
+deepspeed
+accelerate
+peft
+wandb
